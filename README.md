@@ -1,1 +1,2 @@
-# Apche
+# Apache
+Install apache 
